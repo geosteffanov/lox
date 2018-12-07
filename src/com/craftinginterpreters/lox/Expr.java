@@ -1,5 +1,7 @@
 package com.craftinginterpreters.lox;
 
+import com.craftinginterpreters.*;
+
 import java.util.List;
 
 abstract class Expr {
